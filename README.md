@@ -3,3 +3,4 @@
 - 📫 How to reach me: RihardsGoldmanis@outlook.com
 - Please reach me if you have any tips or suggestions. 
 - Thanks for coming here.
+- Modding at Breachers discord server. If you run into any problems there or in game, feel free to DM me at Rihards#5084
