@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RihardsGold
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me: RihardsGoldmanis@outlook.com
 - Please reach me if you have any tips or suggestions. 
 - Thanks for coming here.
